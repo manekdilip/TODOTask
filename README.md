@@ -1,6 +1,6 @@
 # Todo App - Manage your Daily Tasks Seamlessly
 
-<img alt="AppLogo.jpeg" height="100" src=".github/appimages/logo_image.png" width="100"/>
+<img alt="AppLogo.jpeg" height="100" src="logo_image.png" width="100"/>
 
 
 
@@ -15,12 +15,14 @@
 - ✅ Set Background Task to sync with Remote Database.
 - ✅ Arabic & English Localization
 
+## Featured Video 
+- https://drive.google.com/file/d/1yeN9OfDNYjupG6YGhSdmOtMbQ0GH2OSN/view
 
 ## What We used 💪
 
 - [Bloc](https://pub.dev/packages/flutter_bloc) for State Management.
 - [Hive](https://pub.dev/packages/hive_flutter) as Local Database.
-- [Firestore](https://pub.dev/packages/cloud_firestore) as Remote Database.
+- [Firestore](https://pub.dev/packages/cloud_firestore) as Remote Database (https://prnt.sc/GXYhJIeHAxJL).
 - [Workmanager](https://pub.dev/packages/workmanager) for Background Task Execution.
 - [Flutter Local Notification](https://pub.dev/packages/flutter_local_notifications) to notify user that remote sync is happened.
 - Material 3.
