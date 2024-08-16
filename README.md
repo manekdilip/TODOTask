@@ -1,6 +1,6 @@
 # Todo App - Manage your Daily Tasks Seamlessly
 
-<img alt="AppLogo.jpeg" height="100" src=".github/appimages/logo_image.png" width="100"/>
+<img alt="AppLogo.jpeg" height="100" src="logo_image.png" width="100"/>
 
 
 
