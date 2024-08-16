@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "13084226496",
+    "project_id": "demowebrtc-eccfe",
+    "storage_bucket": "demowebrtc-eccfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13084226496:android:99cfebf720d136616cce25",
+        "android_client_info": {
+          "package_name": "com.demo.register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLhIWawIBUiV4lQss36XsG9M3_be3fuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13084226496:android:3dc887ccfaf0e33f6cce25",
+        "android_client_info": {
+          "package_name": "com.gtech.dietappai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLhIWawIBUiV4lQss36XsG9M3_be3fuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13084226496:android:d7b8909c13e434b96cce25",
+        "android_client_info": {
+          "package_name": "com.manektech.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLhIWawIBUiV4lQss36XsG9M3_be3fuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13084226496:android:d00fad18588ba7da6cce25",
+        "android_client_info": {
+          "package_name": "com.manektech.video_call_webrtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLhIWawIBUiV4lQss36XsG9M3_be3fuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
